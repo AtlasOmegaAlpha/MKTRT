@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 namespace _MKTRT_A
 {
     // Mario Kart Tour Renaming Tool: Asset name collector
+    // This tool works by placing the program where the unpacked folders are
+    // Use AssetStudio to unpack all files by going to File -> Export folder, and then select the Nabe folder
+    // Use MKTRT_C before this in order to convert the new filesystem to the old one
     class Program
     {
         static void Main(string[] args)

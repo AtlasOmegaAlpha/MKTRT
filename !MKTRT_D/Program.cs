@@ -10,6 +10,7 @@ namespace _MKTRT_D
     class Program
     {
         // Mario Kart Tour Renaming Tool: File Deleter
+        // This tool cleans the folder where the program is executing by deleting all files that couldn't be renamed
         static void Main(string[] args)
         {
             using (StringReader Reader = new StringReader(File.ReadAllText(args[0])))

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "!MKTRT_A", "!MKTRT_A\!MKTRT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "!MKTRT_D", "!MKTRT_D\!MKTRT_D.csproj", "{AB3EC2C8-D4EC-4D5F-AA39-9A4F42D8521B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "!MKTRT_C", "!MKTRT_C\!MKTRT_C.csproj", "{8EA124E5-EE37-40E4-ACB3-FC8F8C322F2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AB3EC2C8-D4EC-4D5F-AA39-9A4F42D8521B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB3EC2C8-D4EC-4D5F-AA39-9A4F42D8521B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB3EC2C8-D4EC-4D5F-AA39-9A4F42D8521B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA124E5-EE37-40E4-ACB3-FC8F8C322F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA124E5-EE37-40E4-ACB3-FC8F8C322F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA124E5-EE37-40E4-ACB3-FC8F8C322F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA124E5-EE37-40E4-ACB3-FC8F8C322F2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

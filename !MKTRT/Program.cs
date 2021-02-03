@@ -11,6 +11,7 @@ namespace _MKTRT
     class Program
     {
         // Mario Kart Tour Renaming Tool
+        // This program takes an asset database (by default it's stored in my server), and proceeds to rename all files found within the folder where the program is executed, based on the hashes
         static void Main(string[] args)
         {
             WebClient client = new WebClient();
